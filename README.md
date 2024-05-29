@@ -6,13 +6,12 @@
  Tenho conhecimento em 👇.
  
 Linguagens:
-- HTML5
-- CSS3
-- JS
-- REACT
-- NODEjs
+- Node.js
+- express.js
+- mySQL
+- mongoDB
 
-**Tecnologias abordadas**: *MySql - Bootstrap - git - Vscode - Typescript*.
+**Tecnologias abordadas**: *MySql - git - Vscode - Typescript*.
 
 **Sistema operacional**: *Ubuntu - Windows*.
 
